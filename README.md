@@ -1,0 +1,2 @@
+# Michael-Jordan-Vigen-re-Cipher-Method-of-encrypting-alphabetical-text-
+In this project I made my own Vigenère Cipher using the built in command line of macOS. Vigenère Cipher is a classic encryption method that shifts each letter of a message by a different amount determined by a keyword. Vigenère cipher has multiple shifts that repeat based on the keyword, while the Caesar cipher has a single shift for all letters
